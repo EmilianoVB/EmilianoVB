@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emiliano</h1>
 <h3 align="center">A first year engineering student at Columbia University SEAS</h3>
 
-- 🔭 I’m currently working on [the MATE ROV competition](https://materovcompetition.org/)
+- 🔭 I’m currently working 
 
 - 🌱 I’m currently learning **Digital logic and C++**
 
